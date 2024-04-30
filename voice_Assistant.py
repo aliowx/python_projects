@@ -7,7 +7,7 @@
 import assemblyai as aai
 
 # Replace with your API key
-aai.settings.api_key = "05a121d35eba4712873e2912ad7bb522"
+aai.settings.api_key = "you shoul get api key in the https://www.assemblyai.com/app  "
 
 # URL of the file to transcribe
 FILE_URL = "https://soundcloud.com/harris-ford-official/ein-kompliment?si=e7211c2ea24948adb6fb619e8f19fc92&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
