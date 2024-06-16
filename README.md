@@ -1,1 +1,1 @@
-There is some project about the python progeamming 
+There is some projects about the python progeamming 
